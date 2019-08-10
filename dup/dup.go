@@ -1,4 +1,5 @@
 // in the input.  It reads from stdin or from a list of named files.
+// zusätzlicher Kommentar für git-sync
 package main
 
 import (
